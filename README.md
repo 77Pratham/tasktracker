@@ -751,7 +751,7 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built by Pratham.R**
 
-*Last updated: September 2024*
+*Last updated: September 2025*
 │
