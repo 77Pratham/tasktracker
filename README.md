@@ -747,7 +747,7 @@ If you find this project useful, please consider giving it a star! ⭐
 
 - Create an [Issue](https://github.com/username/tasktracker/issues) for bug reports
 - Start a [Discussion](https://github.com/username/tasktracker/discussions) for questions
-- Contact: [your-email@example.com](mailto:your-email@example.com)
+- Contact: [pratham.r.108@gmail.com](mailto:pratham.r.108@gmail.com)
 
 ---
 
