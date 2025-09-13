@@ -1,10 +1,5 @@
 # TaskTracker - Full-Stack Task Management System
 
-[![CI/CD Pipeline](https://github.com/username/tasktracker/workflows/TaskTracker%20CI/CD%20Pipeline/badge.svg)](https://github.com/username/tasktracker/actions)
-[![Test Coverage](https://codecov.io/gh/username/tasktracker/branch/main/graph/badge.svg)](https://codecov.io/gh/username/tasktracker)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=username_tasktracker&metric=alert_status)](https://sonarcloud.io/dashboard?id=username_tasktracker)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=username_tasktracker&metric=security_rating)](https://sonarcloud.io/dashboard?id=username_tasktracker)
-
 A comprehensive, production-ready task management system built with the MERN stack, featuring advanced authentication, real-time updates, comprehensive testing (95% coverage), and automated CI/CD deployment.
 
 ## 🚀 Features
